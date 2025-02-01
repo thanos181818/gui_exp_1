@@ -39,7 +39,16 @@ Ensure you have **Python 3.8+** installed on your system.
 
 ## 📷 Screenshot  
 
-![Network Utility Tool UI](https://your-image-url.com/screenshot.png)  
+![Network Utility Tool UI](images/1.png)
+
+![Network Utility Tool UI](images/2.png)
+
+![Network Utility Tool UI](images/3.png)
+
+![Network Utility Tool UI](images/4.png)
+
+![Network Utility Tool UI](images/5.png)
+
 
 ## 📜 Usage  
 
